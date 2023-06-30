@@ -1,0 +1,6 @@
+.vs/
+out/
+x64/
+*.user
+*.filters
+.CMake
